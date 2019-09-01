@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kapta/precache-manifest.b876d2ef708ce7f5ba47ee92280c1e58.js"
+  "/kapta/precache-manifest.1b971126060bd98cf9861f221c2f4cd8.js"
 );
 
 self.addEventListener('message', (event) => {

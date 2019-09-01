@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kapta/static/css/main.010b98e8.chunk.css",
+    "main.css": "/kapta/static/css/main.d2b9320b.chunk.css",
     "main.js": "/kapta/static/js/main.d4ecffbc.chunk.js",
     "main.js.map": "/kapta/static/js/main.d4ecffbc.chunk.js.map",
     "runtime~main.js": "/kapta/static/js/runtime~main.1fb04f2a.js",
@@ -9,10 +9,10 @@
     "static/js/2.57d22d63.chunk.js": "/kapta/static/js/2.57d22d63.chunk.js",
     "static/js/2.57d22d63.chunk.js.map": "/kapta/static/js/2.57d22d63.chunk.js.map",
     "index.html": "/kapta/index.html",
-    "precache-manifest.b876d2ef708ce7f5ba47ee92280c1e58.js": "/kapta/precache-manifest.b876d2ef708ce7f5ba47ee92280c1e58.js",
+    "precache-manifest.1b971126060bd98cf9861f221c2f4cd8.js": "/kapta/precache-manifest.1b971126060bd98cf9861f221c2f4cd8.js",
     "service-worker.js": "/kapta/service-worker.js",
     "static/css/2.aa177848.chunk.css.map": "/kapta/static/css/2.aa177848.chunk.css.map",
-    "static/css/main.010b98e8.chunk.css.map": "/kapta/static/css/main.010b98e8.chunk.css.map",
+    "static/css/main.d2b9320b.chunk.css.map": "/kapta/static/css/main.d2b9320b.chunk.css.map",
     "static/media/0-mobile.png": "/kapta/static/media/0-mobile.324845f7.png",
     "static/media/0.png": "/kapta/static/media/0.4688728c.png",
     "static/media/1-mobile.png": "/kapta/static/media/1-mobile.fd999373.png",
